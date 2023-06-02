@@ -76,7 +76,8 @@
   --clr-common-border: #c7c7c7;
   --clr-common-placeholder: #8a8787;
   --clr-theme-1: #111111;
-  --clr-theme-2: #14cf93;
+  --clr-theme-2: #5f35b3;
+  /* --clr-theme-2: #14cf93; */
   --clr-theme-3: #7c7c7c;
   --clr-background-primary: #111111;
   --clr-bg-1: #111111;
@@ -1490,6 +1491,7 @@ body.mfp-content {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
+  bottom: -19rem;
 }
 .circle-btn:hover .icon-box {
   color: var(--clr-theme-1);
@@ -5553,7 +5555,7 @@ body {
 @media only screen and (min-width: 1400px) and (max-width: 1600px), only screen and (min-width: 1200px) and (max-width: 1399px) {
   .hero__btn {
     bottom: 0px;
-    transform: rotate(-45deg) scale(0.8);
+    transform: rotate(45deg) scale(0.8);
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {

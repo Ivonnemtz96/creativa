@@ -7,7 +7,7 @@
                     <div class="header__main-content-wrapper p-relative">
                         <div class="header__main-left">
                             <div class="header__logo">
-                                <a href="index.html" class="logo-dark"><img src="assets/img/logo/logo-dark.svg"
+                                <a href="/" class="logo-dark"><img src="assets/img/logo/logo.png"
                                         alt="logo-img"></a>
                             </div>
                         </div>
@@ -15,7 +15,7 @@
                             <div class="main-menu d-none d-xl-block">
                                 <nav id="mobile-menu">
                                     <ul>
-                                        <li class="has-dropdown">
+                                        <!-- <li class="has-dropdown">
                                             <a href="index.html">Home</a>
                                             <ul class="submenu">
                                                 <li><a href="index.html">Digital Agency</a></li>
@@ -132,17 +132,25 @@
                                                 <li><a href="elements-pricing.html">Pricing</a></li>
                                                 <li><a href="elements-pagination.html">Pagination</a></li>
                                             </ul>
+                                        </li> -->
+                                        <li>
+                                            <a href="/">Home</a>
                                         </li>
                                         <li>
-                                            <a href="contact.html">Contact</a>
+                                            <a href="/servicios">Servicios</a>
                                         </li>
+                                        <li>
+                                            <a href="/contacto">Contacto</a>
+                                        </li>
+                                        
+
                                     </ul>
                                 </nav>
                             </div>
                             <div class="message__now d-none d-sm-inline-flex">
                                 <div class="meta-item meta-item-message">
                                     <div class="meta-item__icon">
-                                        <img src="assets/img/icons/hand.png" alt="image not found">
+                                        <img src="assets/img/icons/hand.png?=1" alt="image not found">
                                     </div>
                                     <div class="meta-item__text">
                                         <p><a href="#">Say Hello</a></p>

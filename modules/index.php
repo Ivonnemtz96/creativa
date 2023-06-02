@@ -15,9 +15,9 @@
             <div class="meta-item__icon">
                 <img src="assets/img/icons/dial-pad.png" alt="image not found">
             </div>
-            <div class="meta-item__text">
+            <!-- <div class="meta-item__text">
                 <p><a href="tel:+910369201003">+91 0369 201 003</a></p>
-            </div>
+            </div> -->
         </div>
         <div class="scroll-btn d-none d-sm-flex">
             <a href="#"><span>SCROLL</span></a>
@@ -28,20 +28,19 @@
                     <div class="col-xl-8 col-lg-8">
                         <div class="hero__content">
                             <h1 class="hero__title animation__char_come">
-                                UNIQUE
-                                <span class="tpl__theme-color">
-                                    WEB/GRAPHIC
-                                </span>
+                                Tu agencia
+
                                 <span>
-                                    DESIGN
+                                    Realmente
                                 </span>
-                                EXPERIENCE
+                                <span class="tpl__theme-color">
+                                    Creativa
+                                </span>
 
                             </h1>
                             <p class="hero__text large title-anim">
-                                Lift is a full-service, award-winning digital agency with expertise in brand
-                                &
-                                digital strategy, design, and user experience
+                                En nuestra agencia, combinamos estrategia y creatividad de manera única para construir
+                                campañas de marketing efectivas.
                             </p>
                             <div class="hero__btn">
                                 <a href="about.html" class="circle-btn">
