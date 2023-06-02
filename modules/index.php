@@ -66,7 +66,7 @@
                 <div class="row section-title-spacing">
                     <div class="col-lg-12">
                         <h2 class="brand-area__title p-text">
-                            Trusted by industry-leading organizations including
+                            PÁGINAS CON LAS QUE TRABAJAMOS
                         </h2>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
     <!-- brand area end  -->
 
     <!-- counter area start  -->
-    <div class="counter-area p-relative">
+    <div hidden class="counter-area p-relative">
         <div class="container">
             <div class="counter__inner p-relative">
                 <div class="counter-area__bg">
@@ -179,24 +179,22 @@
                     <div class="section__title-wrapper section__title-wrapper-about">
                         <div class="section__subtitle tpl__item-center">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <!-- <img src="assets/img/shapes/section-title-star.png" alt="image not found"> -->
                             </div>
                             <p class="section__subtitle-text">
-                                About us
+                                SOBRE NOSOTROS
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="about__content">
-                <p class="p-text xlarge">We partner with content-driven tech startups to make them
-                    independent of
-                    their IT and empower
-                    them with a future-proof and scalable website. agenzia is the leading 3PL operator of
-                    the entire
-                    Central Asia, and the largest operator of the network of industrial logistic parks We
-                    mix our
-                    genuine love for design with our tenacious dedication to detail and craft.</p>
+                <p class="p-text xlarge">
+                    En Creativa, combinamos estrategia y creatividad para desarrollar campañas impactantes que generen
+                    resultados tangibles, potenciando tu presencia en el entorno digital.
+                    <br>
+                    Te invitamos a explorar nuestros servicios y descubrir cómo podemos impulsar tu marca.
+                </p>
             </div>
         </div>
     </div>
@@ -208,23 +206,24 @@
             <div class="swiper-wrapper award-scroll-wrapper">
                 <div class="swiper-slide">
                     <div class="award-scroll-line">
-                        <h2 class="award-scroll-line__heading xlarge uppercase">AWARD-WINNING UX/UI Design
+                        <h2 class="award-scroll-line__heading xlarge uppercase">Marketing-Servicios Web-Diseño
+                            Gráfico-Fotografía/Video-
                         </h2>
                     </div>
                 </div>
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                     <div class="award-scroll-line">
                         <h2 class="award-scroll-line__heading xlarge uppercase">AWARD-WINNING UX/UI Design
                         </h2>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
     <!-- award scroll area end  -->
 
     <!-- award scroll area start  -->
-    <section class="award__scroll-area fix">
+    <!-- <section class="award__scroll-area fix">
         <div dir="rtl" class="swiper text__scroll">
             <div class="swiper-wrapper award-scroll-wrapper">
                 <div class="swiper-slide">
@@ -243,7 +242,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- award scroll area end  -->
 
     <!-- contact area start  -->
@@ -268,7 +267,7 @@
     <!-- contact area end  -->
 
     <!-- services area start  -->
-    <section class="services-area section-spacing p-relative fix">
+    <section class="services-area section-spacing p-relative fix" style="margin-top:8rem;">
         <div class="services-area__bg">
             <img src="assets/img/bg/cube-dot-bg.jpg" alt="image not found">
         </div>
@@ -278,13 +277,13 @@
                     <div class="section__title-wrapper section__title-wrapper-services ">
                         <div class="section__subtitle">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <!-- <img src="assets/img/shapes/section-title-star.png" alt="image not found"> -->
                             </div>
-                            <p class="section__subtitle-text">
-                                Our Services
-                            </p>
+                            <!-- <p class="section__subtitle-text">
+                                Nuestros Paquetes
+                            </p> -->
                         </div>
-                        <h2 class="section__title-main xlarge uppercase title-anim">what we do</h2>
+                        <h2 class="section__title-main xlarge uppercase title-anim">Nuestros Paquetes</h2>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -301,19 +300,24 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Web Design
-                                        & <br>
-                                        Development</a>
+                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 1</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
                                         <div class="">
-                                            <h4 class="service__title">Web Design & <br>
-                                                Development</h4>
+                                            <h4 class="service__title">$4500 </h4>
                                             <div class="service__list">
                                                 <ul>
-                                                    <li>Website Design</li>
-                                                    <li>UI/UX Design</li>
+                                                    <li>Redes sociales
+                                                        FB e IG: <br><strong> Posteos feed, stories y reels</strong>
+                                                    </li>
+                                                    <li>Reputación <br>
+                                                        Revisión de perfil actualizado <br>
+                                                        <ul>
+                                                            <li><strong>Portada</strong></li>
+                                                            <li><strong>Datos de contacto</strong></li>
+                                                        </ul>
+                                                    </li>
                                                     <li>UX Audit</li>
                                                     <li>Mobile App Design</li>
                                                     <li>Animation</li>
@@ -331,9 +335,7 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Fintech App
-                                        <br>
-                                        Development</a>
+                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 2</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
@@ -361,8 +363,7 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Digital
-                                        <br>Marketing</a>
+                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 3</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
@@ -389,15 +390,12 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Design
-                                        &<br>
-                                        Branding Consulting</a>
+                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 1</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
                                         <div class="">
-                                            <h4 class="service__title">Design & <br>
-                                                Branding Consulting</h4>
+                                            <h4 class="service__title">Digital <br> Marketing</h4>
                                             <div class="service__list">
                                                 <ul>
                                                     <li>Website Design</li>
@@ -416,64 +414,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="service__box">
-                                <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>UI/UX
-                                        Design
-                                        & <br> Graphic Design</a>
-                                </h4>
-                                <div class="service__content-wrapper">
-                                    <div class="service__content">
-                                        <div class="">
-                                            <h4 class="service__title">UI/UX Design
-                                                & <br> Graphic Design</h4>
-                                            <div class="service__list">
-                                                <ul>
-                                                    <li>Website Design</li>
-                                                    <li>UI/UX Design</li>
-                                                    <li>UX Audit</li>
-                                                    <li>Mobile App Design</li>
-                                                    <li>Animation</li>
-                                                    <li>Graphic + Illustration</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="service__btn">
-                                            <a href="services-details.html"><i class="flaticon-next"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="service__box">
-                                <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Local Barnd
-                                        <br>Marketing</a>
-                                </h4>
-                                <div class="service__content-wrapper">
-                                    <div class="service__content">
-                                        <div class="">
-                                            <h4 class="service__title">Local Barnd <br> Marketing</h4>
-                                            <div class="service__list">
-                                                <ul>
-                                                    <li>Website Design</li>
-                                                    <li>UI/UX Design</li>
-                                                    <li>UX Audit</li>
-                                                    <li>Mobile App Design</li>
-                                                    <li>Animation</li>
-                                                    <li>Graphic + Illustration</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="service__btn">
-                                            <a href="services-details.html"><i class="flaticon-next"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>

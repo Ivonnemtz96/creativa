@@ -136,8 +136,13 @@
                                         <li>
                                             <a href="/">Home</a>
                                         </li>
-                                        <li>
-                                            <a href="/servicios">Servicios</a>
+                                        <li class="has-dropdown">
+                                            <a href="javasript:void(0);">Servicios</a>
+                                            <ul class="submenu">
+                                                <li><a href="#">Paquete 1</a></li>
+                                                <li><a href="#">Paquete 2</a></li>
+                                                <li><a href="#">Paquete 3</a></li>
+                                            </ul>
                                         </li>
                                         <li>
                                             <a href="/contacto">Contacto</a>
