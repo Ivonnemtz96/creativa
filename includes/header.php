@@ -136,12 +136,15 @@
                                         <li>
                                             <a href="/">Home</a>
                                         </li>
+                                        <li>
+                                            <a href="/#nosotros">Nosotros</a>
+                                        </li>
                                         <li class="has-dropdown">
                                             <a href="/servicios">Servicios</a>
                                             <ul class="submenu">
-                                                <li><a href="#">Paquete 1</a></li>
-                                                <li><a href="#">Paquete 2</a></li>
-                                                <li><a href="#">Paquete 3</a></li>
+                                                <li><a href="/servicios">Paquete 1</a></li>
+                                                <li><a href="/servicios">Paquete 2</a></li>
+                                                <li><a href="/servicios">Paquete 3</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -158,7 +161,7 @@
                                         <img src="/assets/img/icons/hand.png?=1" alt="image not found">
                                     </div>
                                     <div class="meta-item__text">
-                                        <p><a href="#">Say Hello</a></p>
+                                        <p><a href="https://wa.me/+521159575327?text=Hola%20me%20gustaría%20más%20información." target="_blank">Say Hello!</a></p>
                                     </div>
                                 </div>
                             </div>

@@ -161,9 +161,9 @@
         </div>
     </div>
     <!-- counter area end  -->
-
+    <div id="nosotros" style="margin-bottom: 1rem;"></div>
     <!-- about area start  -->
-    <div class="about-area section-spacing p-relative">
+    <div class="about-area section-spacing p-relative" >
         <div class="about__shapes">
             <img class="about-area__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
         </div>
@@ -182,8 +182,8 @@
                     </div>
                 </div>
             </div>
-            <div class="about__content" style="right: 50px;">
-                <p class="p-text xlarge">
+            <div class="about__content" >
+                <p class="">
                     En Creativa, combinamos estrategia y creatividad para desarrollar campañas impactantes que generen
                     resultados tangibles, potenciando tu presencia en el entorno digital.
                     <br>

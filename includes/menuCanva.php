@@ -9,7 +9,7 @@
             </div>
             <div class="sidebar-menu-area">
                 <ul class="menu-list">
-                    <li class="menu-item-has-children menu-item">
+                    <!-- <li class="menu-item-has-children menu-item">
                         <a href="#" class="drop-down" data-hover='Home'> Home</a><i class='bi fa-light fa-plus'></i>
                         <ul class="sub-menu">
                             <li><a href="index.html">Digital Agency</a></li>
@@ -99,21 +99,31 @@
                                 </ul>
                             </li>
                         </ul>
+                    </li> -->
+                    <li class="menu-item-has-children menu-item">
+                        <a href="/" class="drop-down" data-hover='Home'> Home</a>
                     </li>
                     <li class="menu-item-has-children menu-item">
-                        <a href="contact.html" class="drop-down" data-hover='Contact'> Contact</a>
+                        <a href="/servicios" class="drop-down" data-hover='Servicios'> Servicios</a><i class='bi fa-light fa-plus'></i>
+                        <ul class="sub-menu">
+                            <li><a href="/servicios">Paquete 1</a></li>
+                            <li><a href="/servicios">Paquete 2</a></li>
+                            <li><a href="/servicios">Paquete 3</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children menu-item">
+                        <a href="#nosotros" class="drop-down" data-hover='Nosotros'> Nosotros</a>
+                    </li>
+                    <li class="menu-item-has-children menu-item">
+                        <a href="/contacto" class="drop-down" data-hover='Contact'> Contacto</a>
                     </li>
                 </ul>
             </div>
             <div class="sidebar-social d-flex  gap-5">
-                <a href="https://www.instagram.com/" target="_blank"><img src="/assets/img/icons/social/instagram.svg"
-                        alt="image"></a>
-                <a href="https://www.dribbble.com/" target="_blank"><img src="/assets/img/icons/social/dribbble.svg"
-                        alt="image"></a>
-                <a href="https://www.pinterest.com/" target="_blank"><img src="/assets/img/icons/social/pinterest.svg"
-                        alt="image"></a>
-                <a href="https://www.twitter.com/" target="_blank"><img src="/assets/img/icons/social/twitter.svg"
-                        alt="image"></a>
+                <a href="https://instagram.com/creativamktstudio?igshid=MzRlODBiNWFlZA==" target="_blank">
+                    <img src="/assets/img/icons/social/instagram.svg" alt="image"></a>
+                <a href="https://www.facebook.com/creativamktstudio/" target="_blank">
+                    <img style="width: 20px;" src="/assets/img/icons/fb.png" alt="image"></a>
             </div>
         </div>
     </div>
