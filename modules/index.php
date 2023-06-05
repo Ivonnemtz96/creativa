@@ -33,22 +33,21 @@
                                 <span>
                                     Realmente
                                 </span>
-                                <span class="tpl__theme-color">
-                                    Creativa
-                                </span>
-
                             </h1>
+                            <div class="container" style="margin-left: -1.5rem;">
+                                <img style="width: 80%;" src="/assets/img/creativa.png" alt="">
+                            </div>
                             <p class="hero__text large title-anim">
                                 En nuestra agencia, combinamos estrategia y creatividad de manera única para construir
                                 campañas de marketing efectivas.
                             </p>
-                            <div class="hero__btn">
+                            <!-- <div class="hero__btn">
                                 <a href="about.html" class="circle-btn">
                                     <span class="icon-box"><i class="flaticon-next"></i></span>
                                     <img src="/assets/img/icons/about-btn-text.png" alt="image not found"
                                         class="image-text">
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -163,7 +162,7 @@
     <!-- counter area end  -->
     <div id="nosotros" style="margin-bottom: 1rem;"></div>
     <!-- about area start  -->
-    <div class="about-area section-spacing p-relative" >
+    <div class="about-area section-spacing p-relative">
         <div class="about__shapes">
             <img class="about-area__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
         </div>
@@ -175,14 +174,14 @@
                             <div class="section__subtitle-icon">
                                 <!-- <img src="/assets/img/shapes/section-title-star.png" alt="image not found"> -->
                             </div>
-                            <p class="section__subtitle-text">
+                            <h4 style="color: #5f35b3;">
                                 SOBRE NOSOTROS
-                            </p>
+                            </h4>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="about__content" >
+            <div class="about__content">
                 <p class="">
                     En Creativa, combinamos estrategia y creatividad para desarrollar campañas impactantes que generen
                     resultados tangibles, potenciando tu presencia en el entorno digital.
@@ -245,7 +244,7 @@
             <img class="contact-area__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
             <img class="contact-area__shape-2" src="/assets/img/shapes/spiral.png" alt="image not found">
         </div>
-        <div class="container">
+        <!-- <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="contact__btn tpl__item-center">
@@ -256,7 +255,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <!-- contact area end  -->
 
@@ -282,7 +281,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="services__btn d-flex justify-content-lg-end mb-20">
-                        <a href="service-01.html" class="border-bottom-btn">Ver Paquetes</a>
+                        <a href="/servicios" class="border-bottom-btn">Ver Paquetes</a>
                     </div>
                 </div>
             </div>
@@ -294,7 +293,7 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 1</a>
+                                    <a href="/servicios"><i class="flaticon-next"></i>PAQUETE 1</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
@@ -334,7 +333,7 @@
                                             </div>
                                         </div>
                                         <div class="service__btn">
-                                            <a href="services-details.html"><i class="flaticon-next"></i></a>
+                                            <a href="/servicios"><i class="flaticon-next"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -343,7 +342,7 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 2</a>
+                                    <a href="/servicios"><i class="flaticon-next"></i>PAQUETE 2</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
@@ -383,7 +382,7 @@
                                             </div>
                                         </div>
                                         <div class="service__btn" style="margin-top: -1rem;">
-                                            <a href="services-details.html" style="color:#fff;">Ver más<i
+                                            <a href="/servicios" style="color:#fff;">Ver más<i
                                                     class="flaticon-next"></i></a>
                                         </div>
                                     </div>
@@ -393,7 +392,7 @@
                         <div class="swiper-slide">
                             <div class="service__box">
                                 <h4 class="service__title">
-                                    <a href="services-details.html"><i class="flaticon-next"></i>Paquete 3</a>
+                                    <a href="/servicios"><i class="flaticon-next"></i>PAQUETE 3</a>
                                 </h4>
                                 <div class="service__content-wrapper">
                                     <div class="service__content">
@@ -432,7 +431,7 @@
                                             </div>
                                         </div>
                                         <div class="service__btn">
-                                            <a href="services-details.html" style="color:#fff;">Ver más<i
+                                            <a href="/servicios" style="color:#fff;">Ver más<i
                                                     class="flaticon-next"></i></a>
                                         </div>
                                     </div>
@@ -454,7 +453,7 @@
             <div class="row align-items-end g-5 section-title-spacing">
                 <div class="col-lg-6">
                     <div class="section__title-wrapper">
-                        <h2 class="section__title-main xlarge uppercase title-anim">Servicios <br> </h2>
+                        <h2 class="section__title-main xlarge uppercase title-anim" style="color: #5f35b3;font-size: 100px;">Servicios <br> </h2>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -496,7 +495,7 @@
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving" href="#web" class="pattern open-popup-link">
+                        <a class="c-button btn-moving pattern open-popup-link" href="#web">
                             <span class="c-button__border"></span>
                             <span class="c-button__text">Ver más</span>
                         </a>
@@ -513,7 +512,7 @@
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving pattern open-popup-link" href="#design" >
+                        <a class="c-button btn-moving pattern open-popup-link" href="#design">
                             <span class="c-button__border"></span>
                             <span class="c-button__text">Ver más</span>
                         </a>
@@ -571,12 +570,12 @@
     <div id="marketing" class="container white-popup mfp-hide"
         style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
         <div class="container">
-                <h5>Manejo de redes sociales</h5><br>
-                <h5>Email marketing </h5><br>
-                <h5>Manejo de reputación </h5><br>
-                <h5>Facebook </h5><br>
-                <h5>Instagram Ads</h5><br>
-                <h5>Tiktok Ads</h5><br>
+            <h5>Manejo de redes sociales</h5><br>
+            <h5>Email marketing </h5><br>
+            <h5>Manejo de reputación </h5><br>
+            <h5>Facebook </h5><br>
+            <h5>Instagram Ads</h5><br>
+            <h5>Tiktok Ads</h5><br>
             <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
         </div>
 
@@ -586,11 +585,11 @@
     <div id="web" class="container white-popup mfp-hide"
         style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
         <div class="container">
-                <h5>Sistemas Web</h5><br>
-                <h5>Posicionamiento SEO/SEM </h5><br>
-                <h5>Correos Profesionales</h5><br>
-                <h5>Optimización web </h5><br>
-                <h5>Páginas web</h5><br>
+            <h5>Sistemas Web</h5><br>
+            <h5>Posicionamiento SEO/SEM </h5><br>
+            <h5>Correos Profesionales</h5><br>
+            <h5>Optimización web </h5><br>
+            <h5>Páginas web</h5><br>
             <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
         </div>
     </div>
@@ -599,21 +598,22 @@
     <div id="design" class="container white-popup mfp-hide"
         style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
         <div class="container">
-                <h5>Diseño de identidad</h5><br>
-                <h5>Diseño para redes sociales </h5><br>
-                <h5>Animación</h5><br>
-                <h5>Realidad aumentada</h5><br>
-                <h5>Diseño para imprenta</h5><br>
-            <p style="margin-top: 5rem;"><a  class="popup-modal-dismiss" href="#">Regresar</a></p>
+            <h5>Diseño de identidad</h5><br>
+            <h5>Diseño para redes sociales </h5><br>
+            <h5>Animación</h5><br>
+            <h5>Realidad aumentada</h5><br>
+            <h5>Diseño para imprenta</h5><br>
+            <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
         </div>
     </div>
 
     <div id="foto" class="container white-popup mfp-hide"
         style="background-color: #fff; text-align: center; max-width: 500px; padding:30px;">
         <div class="container">
-                <h5>Sesión Fotográfica</h5> <br>
-                <h5>Sesión de video</h5>
-            <p style="margin-top: 5rem;"><a  class="popup-modal-dismiss" href="#">Regresar</a></p>
+            <h5>Sesión fotográfica</h5> <br>
+            <h5>Y</h5> <br>
+            <h5>Sesión de video profesionales</h5>
+            <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
         </div>
     </div>
 

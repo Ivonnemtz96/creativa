@@ -17,7 +17,6 @@ include('includes/head.php');
         <div id="smooth-content">
             <?php
             include('modules/index.php');
-            include('includes/redes.php');
             include('includes/footer.php');
         ?>
         </div>
@@ -25,6 +24,7 @@ include('includes/head.php');
 
     <?
      include('includes/scripts.php');   
+     include('includes/redes.php');
     ?>
 
 </body>

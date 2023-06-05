@@ -12,9 +12,7 @@
                         <div class="section__title-wrapper mb-45">
                             <span class="section__inner-subtitle">Contáctanos</span>
                             <h2 class="section__title-inner mb-25">¿Tienes preguntas? <br> ¡Ponte en contacto!</h2>
-                            <p>Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium
-                                doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore
-                                veritatis et quasi architecto beatae vitae dicta sunt, explicabo.</p>
+                            
                         </div>
                         <div class="contact-info-wrapper">
                             <div class="contact-info">
@@ -63,7 +61,7 @@
                                 <div class="contact-info-content">
                                     <span>Correo</span>
                                     <h4>
-                                        <a href="mailto:info@creativamktstudio.com">
+                                        <a href="mailto:info@creativamktstudio.com" style="text-transform: lowercase;">
                                             info@creativamktstudio.com
                                         </a>
                                     </h4>
@@ -120,10 +118,10 @@
     <!-- Contact area end -->
 
     <!-- location map area start -->
-    <div class="location-map">
+    <!-- <div class="location-map">
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2830.101123675658!2d-109.7089797155122!3d23.090246452292668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1685989544401!5m2!1ses-419!2smx"></iframe>
-    </div>
+    </div> -->
     <!-- location map area end -->
 
 </main>

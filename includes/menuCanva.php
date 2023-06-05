@@ -103,13 +103,13 @@
                     <li class="menu-item-has-children menu-item">
                         <a href="/" class="drop-down" data-hover='Home'> Home</a>
                     </li>
-                    <li class="menu-item-has-children menu-item">
-                        <a href="/servicios" class="drop-down" data-hover='Servicios'> Servicios</a><i class='bi fa-light fa-plus'></i>
-                        <ul class="sub-menu">
+                    <li class="menu-item">
+                        <a href="/servicios" class="drop-down" data-hover='Servicios'> Servicios</a>
+                        <!-- <ul class="sub-menu">
                             <li><a href="/servicios">Paquete 1</a></li>
                             <li><a href="/servicios">Paquete 2</a></li>
                             <li><a href="/servicios">Paquete 3</a></li>
-                        </ul>
+                        </ul> -->
                     </li>
                     <li class="menu-item-has-children menu-item">
                         <a href="/#nosotros" class="drop-down" data-hover='Nosotros'> Nosotros</a>

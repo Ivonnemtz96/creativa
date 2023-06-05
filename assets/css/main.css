@@ -983,7 +983,7 @@ p.large {
   font-family: "Archivo", sans-serif;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #2F2F2F;
+  -webkit-text-stroke-color: #ffffff;
   line-height: 1;
   display: inline-block;
 }
@@ -8022,7 +8022,7 @@ body {
 }
 .service__box > .service__title {
   writing-mode: vertical-rl;
-  padding-top: 82px;
+  padding-top: 250px;
   transform: rotate(180deg) translateX(50%);
   position: absolute;
   bottom: 0;
@@ -16329,3 +16329,35 @@ label {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+/* diseño de paquetes */
+.paquetes{
+  border: 1px solid #fff; 
+  background-color: #5f35b3;
+  padding: 25px;
+}
+
+.paquetes:hover{
+  background-color: #000;
+  transform: scale(1.05);
+  transition: .5s;
+}
+
+.btn-paquetes{
+  position: relative;
+  transition: .4s ease-in;
+  z-index: 1;
+  
+}
+.btn-paquetes::before, .btn-paquetes::after{
+  position: absolute;
+  content: "";
+  z-index: -1;
+  
+}
+
+.btn-paquetes:hover{
+  box-shadow: inset -10.5em 0 0 0 #5f35b3, inset 10.5em 0 0 0 #5f35b3;
+}
+

@@ -139,13 +139,13 @@
                                         <li>
                                             <a href="/#nosotros">Nosotros</a>
                                         </li>
-                                        <li class="has-dropdown">
+                                        <li >
                                             <a href="/servicios">Servicios</a>
-                                            <ul class="submenu">
+                                            <!-- <ul class="submenu">
                                                 <li><a href="/servicios">Paquete 1</a></li>
                                                 <li><a href="/servicios">Paquete 2</a></li>
                                                 <li><a href="/servicios">Paquete 3</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
                                         <li>
                                             <a href="/contacto">Contacto</a>
