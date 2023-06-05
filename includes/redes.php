@@ -191,7 +191,7 @@
 
 <div class="insta-float">
     <a href="https://instagram.com/creativamktstudio?igshid=MzRlODBiNWFlZA==" target="_blank">
-        <i style="margin: 0px;" class="fab fa-instagram"></i><span>Instagram<br><small>@creativa</small></span>
+        <i style="margin: 0px;" class="fab fa-instagram"></i><span>Instagram<br><small>@creativamktstudio</small></span>
     </a>
 </div>
 
