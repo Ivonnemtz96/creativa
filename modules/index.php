@@ -182,7 +182,7 @@
                     </div>
                 </div>
             </div>
-            <div class="about__content">
+            <div class="about__content" style="right: 50px;">
                 <p class="p-text xlarge">
                     En Creativa, combinamos estrategia y creatividad para desarrollar campañas impactantes que generen
                     resultados tangibles, potenciando tu presencia en el entorno digital.
@@ -432,7 +432,8 @@
                                             </div>
                                         </div>
                                         <div class="service__btn">
-                                            <a href="services-details.html"style="color:#fff;">Ver más<i class="flaticon-next"></i></a>
+                                            <a href="services-details.html" style="color:#fff;">Ver más<i
+                                                    class="flaticon-next"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -453,22 +454,16 @@
             <div class="row align-items-end g-5 section-title-spacing">
                 <div class="col-lg-6">
                     <div class="section__title-wrapper">
-                        <div class="section__subtitle">
-                            <div class="section__subtitle-icon">
-                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
-                            </div>
-                            <p class="section__subtitle-text">
-                                Our Core Team Members
-                            </p>
-                        </div>
-                        <h2 class="section__title-main xlarge uppercase title-anim">awesome <br> team
-                        </h2>
+                        <h2 class="section__title-main xlarge uppercase title-anim">Servicios <br> </h2>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="team__meta-description mb-10">
-                        <p class="xlarge">Lift is a full-service, award-winning digital agency with
-                            expertise in brand & digital strategy, design, and user experience</p>
+                        <p class="xlarge">
+                            En nuestra agencia de marketing creativa, nos esforzamos por brindar un servicio excepcional
+                            y personalizado a nuestros clientes. Nos adaptamos a tus objetivos específicos para crear
+                            estrategias y campañas de marketing que impulsen el éxito de su marca.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -476,73 +471,68 @@
         <div class="container">
             <div class="team__wrapper anim-skewinup">
                 <div class="team__member">
-                    <span class="member-designation">App Designer</span>
-                    <a href="team-details.html">
+                    <span class="member-designation">Marketing</span>
+                    <a href="#marketing" class="pattern open-popup-link">
                         <div class="member-name">
-                            <span class="first-name">Adaam</span>
-                            <div class="member-image"><img src="/assets/img/team/team-1.jpg" alt="image not found">
-                            </div>
-                            <span class="last-name">Smith</span>
+                            <span class="first-name">Marketing</span>
+                            <!-- <div class="member-image"><img src="/assets/img/team/team-1.jpg" alt="image not found"></div> -->
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving" href="team-details.html">
+                        <a class="c-button btn-moving pattern open-popup-link" href="#web">
                             <span class="c-button__border"></span>
-                            <span class="c-button__text">Details</span>
+                            <span class="c-button__text">Ver más</span>
                         </a>
                     </div>
                 </div>
                 <div class="team__member">
-                    <span class="member-designation">UI/UX Designer</span>
-                    <a href="team-details.html">
+                    <span class="member-designation">Web</span>
+                    <a href="#web" class="pattern open-popup-link">
                         <div class="member-name">
-                            <span class="first-name">Henry</span>
-                            <div class="member-image">
+                            <span class="first-name">Servicios Web</span>
+                            <!-- <div class="member-image">
                                 <img src="/assets/img/team/team-2.jpg" alt="image not found">
-                            </div>
-                            <span class="last-name">Jhonson</span>
+                            </div> -->
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving" href="team-details.html">
+                        <a class="c-button btn-moving" href="#web" class="pattern open-popup-link">
                             <span class="c-button__border"></span>
-                            <span class="c-button__text">Details</span>
+                            <span class="c-button__text">Ver más</span>
                         </a>
                     </div>
                 </div>
                 <div class="team__member">
-                    <span class="member-designation">Web Developer</span>
-                    <a href="team-details.html">
+                    <span class="member-designation">Diseño</span>
+                    <a href="#design" class="pattern open-popup-link">
                         <div class="member-name">
-                            <span class="first-name">Carolina</span>
-                            <div class="member-image">
+                            <span class="first-name">Diseño Gráfico</span>
+                            <!-- <div class="member-image">
                                 <img src="/assets/img/team/team-3.jpg" alt="image not found">
-                            </div>
-                            <span class="last-name">Cab</span>
+                            </div> -->
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving" href="team-details.html">
+                        <a class="c-button btn-moving pattern open-popup-link" href="#design" >
                             <span class="c-button__border"></span>
-                            <span class="c-button__text">Details</span>
+                            <span class="c-button__text">Ver más</span>
                         </a>
                     </div>
                 </div>
                 <div class="team__member">
-                    <span class="member-designation">Digital Marketer</span>
-                    <a href="team-details.html">
+                    <span class="member-designation">Fotografía</span>
+                    <a href="#foto" class="pattern open-popup-link">
                         <div class="member-name">
-                            <span class="first-name">Sophie</span>
-                            <div class="member-image">
+                            <span class="first-name">Fotografía y video</span>
+                            <!-- <div class="member-image">
                                 <img src="/assets/img/team/team-4.jpg" alt="image not found">
-                            </div>
-                            <span class="last-name">Ferrer</span>
+                            </div> -->
                         </div>
                     </a>
                     <div class="member-details-btn btn_wrapper">
-                        <a class="c-button btn-moving" href="team-details.html">
+                        <a class="c-button btn-moving pattern open-popup-link" href="#foto">
                             <span class="c-button__border"></span>
-                            <span class="c-button__text">Details</span>
+                            <span class="c-button__text">Ver más</span>
                         </a>
                     </div>
                 </div>
@@ -551,455 +541,6 @@
     </section>
     <!-- team area end  -->
 
-    <!-- work process area start  -->
-    <section class="work-process-area primary-bg section-spacing">
-        <div class="container">
-            <div class="row section-title-spacing">
-                <div class="col-lg-12">
-                    <div class="section__title-wrapper section__title-wrapper-work-process">
-                        <div class="section__subtitle tpl__item-center">
-                            <div class="section__subtitle-icon">
-                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
-                            </div>
-                            <p class="section__subtitle-text">
-                                Our Working Process
-                            </p>
-                        </div>
-                        <h2 class="section__title-main xlarge uppercase tpl__item-center title-anim">
-                            THOUGHTFUL PROCESS
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="work-process-inner">
-                <div class="row g-5">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-6.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">A</span>
-                            </div>
-                            <h4 class="process__title">Analysis</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">01</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-7.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">R</span>
-                            </div>
-                            <h4 class="process__title">Research</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">02</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-2.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">D</span>
-                            </div>
-                            <h4 class="process__title">Design</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">03</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-9.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">D</span>
-                            </div>
-                            <h4 class="process__title">Development</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">04</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-4.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">O</span>
-                            </div>
-                            <h4 class="process__title">Onboarding</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">05</span>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-box img-hover-left-right-item">
-                            <div class="process__thumb img-hover-left-right">
-                                <img src="/assets/img/gallery/gallery-10.jpg" alt="image not found">
-                            </div>
-                            <div class="process__title-font">
-                                <span class="stroke-text">S</span>
-                            </div>
-                            <h4 class="process__title">Support</h4>
-                            <p>Live workshop where we define the main problems and challenges before
-                                building a
-                                strategic plan moving forward.</p>
-                            <span class="process__number">06</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- work process area end  -->
-
-    <!-- testimonial area start  -->
-    <section class="testimonial__area section-spacing fix">
-        <div class="container">
-            <div class="row align-items-end g-5 section-title-spacing">
-                <div class="col-lg-8">
-                    <div class="section__title-wrapper">
-                        <div class="section__subtitle">
-                            <div class="section__subtitle-icon">
-                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
-                            </div>
-                            <p class="section__subtitle-text">
-                                Awesome Clients Feeback
-                            </p>
-                        </div>
-                        <h2 class="section__title-main xlarge uppercase title-anim">Our Happy Client’s
-                        </h2>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="testimonial__nav mb-20 d-flex justify-content-lg-end">
-                        <div class="testimonial-slider-button-prev circle-nav-btn">
-                            <i class="fa-light fa-arrow-left-long"></i>
-                        </div>
-                        <div class="testimonial-slider-button-next circle-nav-btn">
-                            <i class="fa-light fa-arrow-right-long"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial__wrapper">
-                <div class="row justify-content-end">
-                    <div class="col-xl-8">
-                        <div class="swiper-container testimonial-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-2.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">Mili Jhonson</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-3.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">Dio Caprio</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-4.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">David Hanson</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-7.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">Mili Jhonson</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-6.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">Dio Caprio</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__box">
-                                        <div class="row g-0">
-                                            <div class="col-md-6">
-                                                <div class="author__thumb">
-                                                    <img src="/assets/img/team/team-6.jpg" alt="image not found">
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <div class="author__quote-box">
-                                                    <div class="quote-icon">
-                                                        <svg viewBox="0 0 83 63" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path
-                                                                d="M20.8162 27.6795C21.5404 22.1887 26.3942 17.2186 35.2725 12.8877L36.8713 12.1077L30.3167 0.00634766L28.837 0.756361C10.0619 10.2736 0.541992 23.7238 0.541992 40.7336C0.541992 46.6026 2.40503 51.6715 6.07972 55.7999C9.80594 59.9858 14.3279 62.1083 19.521 62.1083C24.1871 62.1083 28.1438 60.4467 31.2811 57.1692C34.3979 53.9127 35.9783 49.8679 35.9783 45.1469C35.9783 40.6858 34.3819 36.7101 31.2336 33.3303C28.4567 30.3491 24.9577 28.4527 20.8162 27.6795ZM28.8176 54.8112C26.3139 57.4268 23.273 58.6982 19.521 58.6982C15.2846 58.6982 11.7212 57.0084 8.62721 53.5325C5.48125 49.9984 3.95192 45.8119 3.95192 40.7335C3.95192 32.9375 6.1472 25.8991 10.4764 19.8141C14.6072 14.0084 20.8028 8.88265 28.907 4.56263L32.1907 10.6249C22.3151 15.8001 17.3114 22.0212 17.3114 29.1335V30.6564L18.8245 30.8277C22.9003 31.2891 26.1428 32.8679 28.7384 35.6544C31.3154 38.4209 32.5682 41.5262 32.5682 45.1467C32.5683 49.0132 31.3413 52.1743 28.8176 54.8112Z"
-                                                                fill="#14CF93" />
-                                                            <path
-                                                                d="M67.0889 27.6836C67.8045 22.1883 72.6183 17.2157 81.4255 12.8842L82.9998 12.11L76.608 0L75.1136 0.754039C56.2526 10.2708 46.6895 23.7216 46.6895 40.7327C46.6895 46.6055 48.5763 51.6771 52.2974 55.8066C56.0649 59.9873 60.6055 62.1072 65.7944 62.1072C70.4663 62.1072 74.4048 60.4424 77.5004 57.1589C80.5693 53.9038 82.1256 49.8621 82.1256 45.1459C82.1256 40.6846 80.5292 36.7089 77.3812 33.3293C74.61 30.3545 71.1532 28.4597 67.0889 27.6836ZM75.0195 54.8197C72.5592 57.429 69.5419 58.6975 65.7944 58.6975C61.5538 58.6975 57.9675 57.0053 54.8306 53.524C51.6468 49.9909 50.0992 45.807 50.0992 40.7327C50.0992 32.9381 52.3045 25.9008 56.6529 19.8165C60.802 14.012 67.0243 8.88709 75.163 4.56756L78.3576 10.6205C68.5532 15.7975 63.5853 22.0198 63.5853 29.1328V30.6523L65.0945 30.8265C69.0866 31.2873 72.2893 32.8662 74.8862 35.6537C77.4632 38.4201 78.7157 41.525 78.7157 45.146C78.7158 49.0173 77.5067 52.1818 75.0195 54.8197Z"
-                                                                fill="#14CF93" />
-                                                        </svg>
-                                                    </div>
-                                                    <p>It is a sequence of Latin words that, as they are
-                                                        positioned,
-                                                        do not form
-                                                        sentences with a complete sense.</p>
-                                                    <span class="author__name">David Hanson</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- testimonial area end  -->
-
-    <!-- blog area start  -->
-    <section class="blogpost-area section-spacing p-relative fix">
-        <div class="blogpost-area__overlay area-absolute"></div>
-        <div class="noise-wrapper">
-            <div class="noise"></div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section__title-wrapper">
-                        <div class="section__subtitle tpl__item-center">
-                            <div class="section__subtitle-icon">
-                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
-                            </div>
-                            <p class="section__subtitle-text">
-                                Latest News
-                            </p>
-                        </div>
-                        <h2 class="section__title-main xlarge uppercase tpl__item-center title-anim">
-                            Blog & news</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row align-items-center justify-content-center">
-                <div class="col-lg-12">
-                    <div class="blog__list">
-                        <div class="blog__item-1">
-                            <div class="">
-                                <a href="blog.html" class="tag">News</a>
-                                <h3 class="blog__item-1-title title-block-2"><a href="blog-details.html">The
-                                        day began with
-                                        Dhaka residents waking up to empty roads, almost no public
-                                        transports</a></h3>
-                                <div class="blog__meta-list">
-                                    <div class="meta-item">
-                                        <p>July 26, 2023</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog__button btn_wrapper d-flex align-items-center justify-content-end">
-                                <a class="c-button btn-moving" href="blog-details.html">
-                                    <span class="c-button__border"></span>
-                                    <span class="c-button__text"><i class="flaticon-right-arrow"></i></span>
-                                </a>
-                            </div>
-                            <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="/assets/img/blog/blog-1-img-1.jpg"></div>
-                        </div>
-                        <div class="blog__item-1">
-                            <div class="">
-                                <a href="blog.html" class="tag">News</a>
-                                <h3 class="blog__item-1-title title-block-2"><a href="blog-details.html">People have
-                                        turned
-                                        around, they have woken up, they are united. Nothing can stop
-                                        people's movement,</a></h3>
-                                <div class="blog__meta-list">
-                                    <div class="meta-item">
-                                        <p>July 26, 2023</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog__button btn_wrapper d-flex align-items-center justify-content-end">
-                                <a class="c-button btn-moving" href="blog-details.html">
-                                    <span class="c-button__border"></span>
-                                    <span class="c-button__text"><i class="flaticon-right-arrow"></i></span>
-                                </a>
-                            </div>
-                            <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="/assets/img/blog/blog-1-img-2.jpg"></div>
-                        </div>
-                        <div class="blog__item-1">
-                            <div class="">
-                                <a href="blog.html" class="tag">News</a>
-                                <h3 class="blog__item-1-title title-block-2"><a href="blog-details.html">leader asked
-                                        the
-                                        party men to bring people of the country with them to wage its
-                                        one-point demand movement.</a></h3>
-                                <div class="blog__meta-list">
-                                    <div class="meta-item">
-                                        <p>July 26, 2023</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog__button btn_wrapper d-flex align-items-center justify-content-end">
-                                <a class="c-button btn-moving" href="blog-details.html">
-                                    <span class="c-button__border"></span>
-                                    <span class="c-button__text"><i class="flaticon-right-arrow"></i></span>
-                                </a>
-                            </div>
-                            <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="/assets/img/blog/blog-1-img-3.jpg"></div>
-                        </div>
-
-                        <div class="blog-img-wrap">
-                            <div class="blog-img"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- blog area end  -->
 
     <!-- link scroll area start  -->
     <section class="link-scroll-area p-relative fix pt-55 pb-55 bg-theme-2">
@@ -1010,16 +551,16 @@
                 <div class="swiper-slide">
                     <div class="link-scroll-line">
                         <h2 class="link-scroll-line__heading xlarge uppercase">
-                            <a href="contact.html">GET IN <span class="stroke-text">TOUCH</span></a>
-                            <a href="contact.html">GET IN <span class="stroke-text">TOUCH</span></a>
+                            <a href="/contacto">PONTE EN <span class="stroke-text"> CONTACTO</span></a>
+                            <a href="/contacto">PONTE EN <span class="stroke-text"> CONTACTO</span></a>
                         </h2>
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="link-scroll-line">
                         <h2 class="link-scroll-line__heading xlarge uppercase">
-                            <a href="contact.html">GET IN <span class="stroke-text">TOUCH</span></a>
-                            <a href="contact.html">GET IN <span class="stroke-text">TOUCH</span></a>
+                            <a href="/contacto">PONTE EN <span class="stroke-text"> CONTACTO</span></a>
+                            <a href="/contacto">PONTE EN <span class="stroke-text"> CONTACTO</span></a>
                         </h2>
                     </div>
                 </div>
@@ -1027,5 +568,54 @@
         </div>
     </section>
     <!-- link scroll area end  -->
+    <div id="marketing" class="container white-popup mfp-hide"
+        style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
+        <div class="container">
+                <h5>Manejo de redes sociales</h5><br>
+                <h5>Email marketing </h5><br>
+                <h5>Manejo de reputación </h5><br>
+                <h5>Facebook </h5><br>
+                <h5>Instagram Ads</h5><br>
+                <h5>Tiktok Ads</h5><br>
+            <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+        </div>
+
+    </div>
+
+
+    <div id="web" class="container white-popup mfp-hide"
+        style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
+        <div class="container">
+                <h5>Sistemas Web</h5><br>
+                <h5>Posicionamiento SEO/SEM </h5><br>
+                <h5>Correos Profesionales</h5><br>
+                <h5>Optimización web </h5><br>
+                <h5>Páginas web</h5><br>
+            <p style="margin-top: 5rem;"><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+        </div>
+    </div>
+
+
+    <div id="design" class="container white-popup mfp-hide"
+        style="background-color: #fff; text-align: center; max-width: 500px;padding:30px;">
+        <div class="container">
+                <h5>Diseño de identidad</h5><br>
+                <h5>Diseño para redes sociales </h5><br>
+                <h5>Animación</h5><br>
+                <h5>Realidad aumentada</h5><br>
+                <h5>Diseño para imprenta</h5><br>
+            <p style="margin-top: 5rem;"><a  class="popup-modal-dismiss" href="#">Regresar</a></p>
+        </div>
+    </div>
+
+    <div id="foto" class="container white-popup mfp-hide"
+        style="background-color: #fff; text-align: center; max-width: 500px; padding:30px;">
+        <div class="container">
+                <h5>Sesión Fotográfica</h5> <br>
+                <h5>Sesión de video</h5>
+            <p style="margin-top: 5rem;"><a  class="popup-modal-dismiss" href="#">Regresar</a></p>
+        </div>
+    </div>
+
 </main>
 <!-- footer-area-start -->

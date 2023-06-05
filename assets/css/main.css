@@ -1739,11 +1739,11 @@ body.mfp-content {
   transition-delay: 0.15s;
 }
 .c-button:after {
-  background-color: #14CF93;
+  background-color: #5f35b3;
 }
 .c-button:hover {
   transform: scale(1);
-  border-color: #14CF93;
+  border-color: #5f35b3;
 }
 .c-button:hover:after, .c-button:hover:before {
   top: 0;
@@ -5525,7 +5525,7 @@ body {
 .hero__text {
   max-width: 424px;
   position: absolute;
-  right: 0;
+  right: 50px;
   top: 120px;
   margin-bottom: 0;
 }

@@ -20,4 +20,7 @@
     <link rel="stylesheet" href="/assets/css/odometer.css">
     <link rel="stylesheet" href="/assets/css/default.css">
     <link rel="stylesheet" href="/assets/css/main.css">
+
+     <!-- magnific popup -->
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 </head>

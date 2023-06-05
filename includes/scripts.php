@@ -20,3 +20,22 @@
 <script src="/assets/js/gsap.min.js"></script>
 <script src="/assets/js/vanilla-tilt.js"></script>
 <script src="/assets/js/main.js"></script>
+
+
+<!-- icons -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
+
+<!-- magnific popup -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js">
+</script>
+<script>
+$('.open-popup-link').magnificPopup({
+    type: 'inline',
+    midClick: true,
+    mainClass: 'mfp-fade'
+});
+$(document).on('click', '.popup-modal-dismiss', function(e) {
+    e.preventDefault();
+    $.magnificPopup.close();
+});
+</script>
