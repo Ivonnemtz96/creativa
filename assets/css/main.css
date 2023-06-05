@@ -8000,7 +8000,7 @@ body {
 .service__box {
   border: 1px solid #414141;
   position: relative;
-  height: 558px;
+  height: 830px;
 }
 .service__box:hover .service__content {
   opacity: 1;
