@@ -137,7 +137,7 @@
                                             <a href="/">Home</a>
                                         </li>
                                         <li class="has-dropdown">
-                                            <a href="javasript:void(0);">Servicios</a>
+                                            <a href="/servicios">Servicios</a>
                                             <ul class="submenu">
                                                 <li><a href="#">Paquete 1</a></li>
                                                 <li><a href="#">Paquete 2</a></li>

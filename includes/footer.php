@@ -84,7 +84,7 @@
              <div class="row">
                  <div class="col-xl-12">
                      <div class="copyright__text tpl__item-center">
-                         <p>Copyright © 2023<a target="_blank" href="/">Creativa Mkt Studio</a></p>
+                         <p>Copyright © 2023<a target="_blank" href="/"> Creativa Mkt Studio</a></p>
                      </div>
                  </div>
              </div>
