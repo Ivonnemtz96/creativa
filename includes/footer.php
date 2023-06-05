@@ -1,6 +1,5 @@
  <!-- footer-area-start -->
  <footer>
-    
      <section class="company-address-area footer__bg">
          <div class="container">
              <div class="address-wrapper pt-60 pb-10">
