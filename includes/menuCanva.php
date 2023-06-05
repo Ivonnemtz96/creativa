@@ -112,7 +112,7 @@
                         </ul>
                     </li>
                     <li class="menu-item-has-children menu-item">
-                        <a href="#nosotros" class="drop-down" data-hover='Nosotros'> Nosotros</a>
+                        <a href="/#nosotros" class="drop-down" data-hover='Nosotros'> Nosotros</a>
                     </li>
                     <li class="menu-item-has-children menu-item">
                         <a href="/contacto" class="drop-down" data-hover='Contact'> Contacto</a>

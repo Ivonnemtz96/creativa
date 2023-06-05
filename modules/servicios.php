@@ -1,9 +1,7 @@
 <main>
-
-
     <!-- services area start  -->
-    <section class="services-area section-spacing p-relative fix" style="margin-top:14rem;">
-        <div class="services-area__bg" style="background-color: #d9d9d9;">
+    <section class="services-area section-spacing p-relative fix" style="margin-top:14rem;"  style="background-color: #fff;">
+        <div class="" style="background-color: #fff;">
             <!-- <img src="/assets/img/bg/cube-dot-bg.jpg" alt="image not found"> -->
         </div>
         <div class="container">
@@ -18,7 +16,7 @@
                                 Nuestros Paquetes
                             </p> -->
                         </div>
-                        <h2 class="section__title-main xlarge uppercase title-anim">¡Elije el tuyo!</h2>
+                        <h2 class="section__title-main xlarge uppercase title-anim" style="color: #5f35b3;">¡Elije el tuyo!</h2>
                     </div>
                 </div>
             </div>
@@ -27,7 +25,7 @@
 
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff;">
+                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff; background-color: #5f35b3;">
                     <div class="">
                         <div class="">
                             <div class="container p-5">
@@ -84,7 +82,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff;">
+                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff;background-color: #5f35b3;">
                     <div class="">
                         <div class="container p-5">
                             <h4 class="service__title text-center text-white">$10,000 </h4>
@@ -156,7 +154,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff;">
+                <div class="col-12 col-md-12 col-lg-3 mt-4 mb-4" style="border: 1px solid #fff;background-color: #5f35b3;">
                     <div class="">
                         <div class="container p-5">
                             <h4 class="service__title text-center text-white">$25,000 </h4>

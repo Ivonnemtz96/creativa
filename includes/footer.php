@@ -3,77 +3,43 @@
      <section class="company-address-area footer__bg">
          <div class="container">
              <div class="address-wrapper pt-60 pb-10">
-                 <div class="row">
-                     <div class="col-lg-3 col-md-6">
+                 <div class="row justify-content-center">
+                     <div class="col-lg-6 col-md-6 text-center">
                          <div class="address-box mb-40">
-                             <h4 class="country-name mb-25">Athens</h4>
+                             <h4 class="country-name mb-25">Teléfonos</h4>
                              <div class="address-list">
                                  <ul>
                                      <li>
-                                         <a href="https://maps.google.com/" target="_blank">33 Zeppou
-                                             str.GR-16675
-                                             Glyfada,Greece</a>
+                                        Llamadas <br>
+                                         <a href="https://maps.google.com/" target="_blank">
+                                         624 1215088
+                                         </a>
                                      </li>
                                      <li>
-                                         <a href="tel:+912111042000">+91 211 10 42 000</a>
+                                        WhatsApp <br>
+                                         <a href="tel:+521159575327">+52 11 595 75327</a>
                                      </li>
                                  </ul>
                              </div>
                          </div>
                      </div>
-                     <div class="col-lg-3 col-md-6">
+                     <div class="col-lg-6 col-md-6 text-center">
                          <div class="address-box mb-40">
-                             <h4 class="country-name mb-25">United State</h4>
+                             <h4 class="country-name mb-25">Horarios</h4>
                              <div class="address-list">
                                  <ul>
                                      <li>
-                                         <a href="https://maps.google.com/" target="_blank">333 SE 2nd Avenue,
-                                             Suite
-                                             2067Miami,
-                                             FL</a>
+                                        Lunes a viernes <br>9:00 am a 5:00 pm
                                      </li>
                                      <li>
-                                         <a href="tel:+012111042000">+01 211 10 42 000</a>
+                                         Sábados y domingos <br>
+                                         Cerrado
                                      </li>
                                  </ul>
                              </div>
                          </div>
                      </div>
-                     <div class="col-lg-3 col-md-6">
-                         <div class="address-box mb-40">
-                             <h4 class="country-name mb-25">Philippines</h4>
-                             <div class="address-list">
-                                 <ul>
-                                     <li>
-                                         <a href="https://maps.google.com/" target="_blank">14th Floor,
-                                             Vernida IV
-                                             Bldg.128 L.P.
-                                             Leviste</a>
-                                     </li>
-                                     <li>
-                                         <a href="tel:+632111042000">+63 211 10 42 000</a>
-                                     </li>
-                                 </ul>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="col-lg-3 col-md-6">
-                         <div class="address-box mb-40">
-                             <h4 class="country-name mb-25">Switzerland</h4>
-                             <div class="address-list">
-                                 <ul>
-                                     <li>
-                                         <a href="https://maps.google.com/" target="_blank">Hauptstrasse
-                                             94CH-4147
-                                             Basel,Switzerland</a>
-                                     </li>
-                                     <li>
-                                         <a href="tel:+912111042196">+91 211 10 42 196</a>
-                                     </li>
-                                 </ul>
-                             </div>
-                         </div>
-                     </div>
+                    
                  </div>
              </div>
          </div>
