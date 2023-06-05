@@ -7,7 +7,7 @@
                     <div class="header__main-content-wrapper p-relative">
                         <div class="header__main-left">
                             <div class="header__logo">
-                                <a href="/" class="logo-dark"><img src="assets/img/logo/logo.png"
+                                <a href="/" class="logo-dark"><img src="/assets/img/logo/logo.png"
                                         alt="logo-img"></a>
                             </div>
                         </div>
@@ -155,7 +155,7 @@
                             <div class="message__now d-none d-sm-inline-flex">
                                 <div class="meta-item meta-item-message">
                                     <div class="meta-item__icon">
-                                        <img src="assets/img/icons/hand.png?=1" alt="image not found">
+                                        <img src="/assets/img/icons/hand.png?=1" alt="image not found">
                                     </div>
                                     <div class="meta-item__text">
                                         <p><a href="#">Say Hello</a></p>
@@ -165,7 +165,7 @@
                             <div class="menu__bar">
                                 <a class="offset-btn" href="javascript:void(0)">
                                     <div class="bar-icon mobile-menu-btn">
-                                        <img src="assets/img/icons/line-bar.png" alt="img not found">
+                                        <img src="/assets/img/icons/line-bar.png" alt="img not found">
                                     </div>
                                 </a>
                             </div>

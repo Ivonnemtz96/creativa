@@ -3,7 +3,7 @@
         <div class="main-nav-js">
             <div class="mobile-logo-area d-flex justify-content-between align-items-center">
                 <div class="header-logo">
-                    <a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo/logo-white.svg"></a>
+                    <a href="index.html"><img alt="image" class="img-fluid" src="/assets/img/logo/logo-white.svg"></a>
                 </div>
                 <div class="menu-close-btn"><i class="fa-thin fa-xmark"></i></div>
             </div>
@@ -106,13 +106,13 @@
                 </ul>
             </div>
             <div class="sidebar-social d-flex  gap-5">
-                <a href="https://www.instagram.com/" target="_blank"><img src="assets/img/icons/social/instagram.svg"
+                <a href="https://www.instagram.com/" target="_blank"><img src="/assets/img/icons/social/instagram.svg"
                         alt="image"></a>
-                <a href="https://www.dribbble.com/" target="_blank"><img src="assets/img/icons/social/dribbble.svg"
+                <a href="https://www.dribbble.com/" target="_blank"><img src="/assets/img/icons/social/dribbble.svg"
                         alt="image"></a>
-                <a href="https://www.pinterest.com/" target="_blank"><img src="assets/img/icons/social/pinterest.svg"
+                <a href="https://www.pinterest.com/" target="_blank"><img src="/assets/img/icons/social/pinterest.svg"
                         alt="image"></a>
-                <a href="https://www.twitter.com/" target="_blank"><img src="assets/img/icons/social/twitter.svg"
+                <a href="https://www.twitter.com/" target="_blank"><img src="/assets/img/icons/social/twitter.svg"
                         alt="image"></a>
             </div>
         </div>

@@ -352,7 +352,7 @@
 		infinite: true,
 		speed: 1000,
 		autoplay: true,
-		slidesToShow: 5,
+		slidesToShow: 4,
 		draggable: true,
 		responsive: [
 			{
@@ -364,7 +364,7 @@
 			{
 				breakpoint: 1200,
 				settings: {
-					slidesToShow: 3,
+					slidesToShow: 4,
 				},
 			},
 			{

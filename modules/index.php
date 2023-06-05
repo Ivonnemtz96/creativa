@@ -5,15 +5,15 @@
     <section class="hero-area section-spacing p-relative fix">
         <div class="adjust-header-space"></div>
         <div class="hero-area__bg">
-            <img src="assets/img/bg/hero-bg-1.jpg" alt="image not found">
+            <img src="/assets/img/bg/hero-bg-1.jpg" alt="image not found">
         </div>
         <div class="hero__shapes d-none d-md-block">
-            <img class="hero__shape-1" src="assets/img/shapes/star-1.png" alt="image not found">
-            <img class="hero__shape-2" src="assets/img/shapes/star-2.png" alt="image not found">
+            <img class="hero__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
+            <img class="hero__shape-2" src="/assets/img/shapes/star-2.png" alt="image not found">
         </div>
         <div class="meta-item meta-item-call d-none d-sm-flex">
             <div class="meta-item__icon">
-                <img src="assets/img/icons/dial-pad.png" alt="image not found">
+                <img src="/assets/img/icons/dial-pad.png" alt="image not found">
             </div>
             <!-- <div class="meta-item__text">
                 <p><a href="tel:+910369201003">+91 0369 201 003</a></p>
@@ -45,7 +45,7 @@
                             <div class="hero__btn">
                                 <a href="about.html" class="circle-btn">
                                     <span class="icon-box"><i class="flaticon-next"></i></span>
-                                    <img src="assets/img/icons/about-btn-text.png" alt="image not found"
+                                    <img src="/assets/img/icons/about-btn-text.png" alt="image not found"
                                         class="image-text">
                                 </a>
                             </div>
@@ -72,34 +72,28 @@
                 </div>
                 <div class="brand-wrapper brand-active slider-drag">
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-1.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-1.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-2.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-2.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-3.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-3.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-4.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-4.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-5.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-1.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-1.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-2.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-2.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-3.png?=1" alt="image not found">
                     </div>
                     <div class="brand-item">
-                        <img src="assets/img/brand/brand-3.png" alt="image not found">
-                    </div>
-                    <div class="brand-item">
-                        <img src="assets/img/brand/brand-4.png" alt="image not found">
-                    </div>
-                    <div class="brand-item">
-                        <img src="assets/img/brand/brand-5.png" alt="image not found">
+                        <img src="/assets/img/brand/brand-4.png?=1" alt="image not found">
                     </div>
                 </div>
             </div>
@@ -112,7 +106,7 @@
         <div class="container">
             <div class="counter__inner p-relative">
                 <div class="counter-area__bg">
-                    <img src="assets/img/bg/counter-bg.jpg" alt="image not found">
+                    <img src="/assets/img/bg/counter-bg.jpg" alt="image not found">
                 </div>
                 <div class="counter-wrapper">
                     <div class="row align-items-center">
@@ -138,7 +132,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="counter-area__btn">
-                                <a href="assets/video/team-session.mp4" class="circle-btn popup-video">
+                                <a href="/assets/video/team-session.mp4" class="circle-btn popup-video">
                                     <span class="icon-box">
                                         <svg width="24" height="26" viewBox="0 0 24 26" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -146,7 +140,7 @@
                                                 fill="white"></path>
                                         </svg>
                                     </span>
-                                    <img src="assets/img/icons/fact-btn-text.png" alt="image not found"
+                                    <img src="/assets/img/icons/fact-btn-text.png" alt="image not found"
                                         class="image-text">
                                 </a>
                             </div>
@@ -171,7 +165,7 @@
     <!-- about area start  -->
     <div class="about-area section-spacing p-relative">
         <div class="about__shapes">
-            <img class="about-area__shape-1" src="assets/img/shapes/star-1.png" alt="image not found">
+            <img class="about-area__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
         </div>
         <div class="container">
             <div class="row section-title-spacing">
@@ -179,7 +173,7 @@
                     <div class="section__title-wrapper section__title-wrapper-about">
                         <div class="section__subtitle tpl__item-center">
                             <div class="section__subtitle-icon">
-                                <!-- <img src="assets/img/shapes/section-title-star.png" alt="image not found"> -->
+                                <!-- <img src="/assets/img/shapes/section-title-star.png" alt="image not found"> -->
                             </div>
                             <p class="section__subtitle-text">
                                 SOBRE NOSOTROS
@@ -248,8 +242,8 @@
     <!-- contact area start  -->
     <div class="contact-area pt-55 section-spacing-bottom p-relative">
         <div class="contact__shapes">
-            <img class="contact-area__shape-1" src="assets/img/shapes/star-1.png" alt="image not found">
-            <img class="contact-area__shape-2" src="assets/img/shapes/spiral.png" alt="image not found">
+            <img class="contact-area__shape-1" src="/assets/img/shapes/star-1.png" alt="image not found">
+            <img class="contact-area__shape-2" src="/assets/img/shapes/spiral.png" alt="image not found">
         </div>
         <div class="container">
             <div class="row">
@@ -257,7 +251,7 @@
                     <div class="contact__btn tpl__item-center">
                         <a href="contact.html" class="circle-btn is-green">
                             <span class="icon-box"><i class="flaticon-next"></i></span>
-                            <img src="assets/img/icons/contact-btn-text.png" alt="image not found" class="image-text">
+                            <img src="/assets/img/icons/contact-btn-text.png" alt="image not found" class="image-text">
                         </a>
                     </div>
                 </div>
@@ -269,7 +263,7 @@
     <!-- services area start  -->
     <section class="services-area section-spacing p-relative fix" style="margin-top:8rem;">
         <div class="services-area__bg">
-            <img src="assets/img/bg/cube-dot-bg.jpg" alt="image not found">
+            <img src="/assets/img/bg/cube-dot-bg.jpg" alt="image not found">
         </div>
         <div class="container">
             <div class="row align-items-end g-5 section-title-spacing">
@@ -277,7 +271,7 @@
                     <div class="section__title-wrapper section__title-wrapper-services ">
                         <div class="section__subtitle">
                             <div class="section__subtitle-icon">
-                                <!-- <img src="assets/img/shapes/section-title-star.png" alt="image not found"> -->
+                                <!-- <img src="/assets/img/shapes/section-title-star.png" alt="image not found"> -->
                             </div>
                             <!-- <p class="section__subtitle-text">
                                 Nuestros Paquetes
@@ -460,7 +454,7 @@
                     <div class="section__title-wrapper">
                         <div class="section__subtitle tpl__item-center">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
                             </div>
                             <p class="section__subtitle-text">
                                 Some Featured Works
@@ -479,7 +473,7 @@
                         <div class="featured__work-wrapper">
                             <div class="featured__work-thumb p-relative topylo-tilt">
                                 <div class="project__thumb-1">
-                                    <a href="case-details.html"><img src="assets/img/projects/project-2.jpg"
+                                    <a href="case-details.html"><img src="/assets/img/projects/project-2.jpg"
                                             alt="image not found"></a>
                                 </div>
                                 <div class="featured__work-view-btn">
@@ -502,7 +496,7 @@
                         <div class="featured__work-wrapper">
                             <div class="featured__work-thumb p-relative topylo-tilt">
                                 <div class="project__thumb-2">
-                                    <a href="case-details.html"><img src="assets/img/projects/project-1.jpg"
+                                    <a href="case-details.html"><img src="/assets/img/projects/project-1.jpg"
                                             alt="image not found"></a>
                                 </div>
                                 <div class="featured__work-view-btn">
@@ -525,7 +519,7 @@
                         <div class="featured__work-wrapper">
                             <div class="featured__work-thumb p-relative topylo-tilt">
                                 <div class="project__thumb-3">
-                                    <a href="case-details.html"><img src="assets/img/projects/project-3.jpg"
+                                    <a href="case-details.html"><img src="/assets/img/projects/project-3.jpg"
                                             alt="image not found"></a>
                                 </div>
                                 <div class="featured__work-view-btn">
@@ -548,7 +542,7 @@
                         <div class="featured__work-wrapper">
                             <div class="featured__work-thumb p-relative topylo-tilt">
                                 <div class="project__thumb-4">
-                                    <a href="case-details.html"><img src="assets/img/projects/project-4.jpg"
+                                    <a href="case-details.html"><img src="/assets/img/projects/project-4.jpg"
                                             alt="image not found"></a>
                                 </div>
                                 <div class="featured__work-view-btn">
@@ -572,7 +566,7 @@
                     <div class="col-lg-6 col-md-6 order-md-1">
                         <div class="featured__works-all-view-btn p-relative tpl__item-center">
                             <div class="featured-works-area__shapes">
-                                <img class="featured-works-area__shape-1" src="assets/img/shapes/arrow-curve.png"
+                                <img class="featured-works-area__shape-1" src="/assets/img/shapes/arrow-curve.png"
                                     alt="image not found">
                             </div>
                             <a href="case-study-02.html" class="border-btn"><span class="btn-text-2">View
@@ -587,14 +581,14 @@
 
     <!-- team area start  -->
     <section class="team-area section-spacing p-relative">
-        <div class="team-area__overlay" data-background="assets/img/bg/box-gradient-bg.jpg"></div>
+        <div class="team-area__overlay" data-background="/assets/img/bg/box-gradient-bg.jpg"></div>
         <div class="container">
             <div class="row align-items-end g-5 section-title-spacing">
                 <div class="col-lg-6">
                     <div class="section__title-wrapper">
                         <div class="section__subtitle">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
                             </div>
                             <p class="section__subtitle-text">
                                 Our Core Team Members
@@ -619,7 +613,7 @@
                     <a href="team-details.html">
                         <div class="member-name">
                             <span class="first-name">Adaam</span>
-                            <div class="member-image"><img src="assets/img/team/team-1.jpg" alt="image not found">
+                            <div class="member-image"><img src="/assets/img/team/team-1.jpg" alt="image not found">
                             </div>
                             <span class="last-name">Smith</span>
                         </div>
@@ -637,7 +631,7 @@
                         <div class="member-name">
                             <span class="first-name">Henry</span>
                             <div class="member-image">
-                                <img src="assets/img/team/team-2.jpg" alt="image not found">
+                                <img src="/assets/img/team/team-2.jpg" alt="image not found">
                             </div>
                             <span class="last-name">Jhonson</span>
                         </div>
@@ -655,7 +649,7 @@
                         <div class="member-name">
                             <span class="first-name">Carolina</span>
                             <div class="member-image">
-                                <img src="assets/img/team/team-3.jpg" alt="image not found">
+                                <img src="/assets/img/team/team-3.jpg" alt="image not found">
                             </div>
                             <span class="last-name">Cab</span>
                         </div>
@@ -673,7 +667,7 @@
                         <div class="member-name">
                             <span class="first-name">Sophie</span>
                             <div class="member-image">
-                                <img src="assets/img/team/team-4.jpg" alt="image not found">
+                                <img src="/assets/img/team/team-4.jpg" alt="image not found">
                             </div>
                             <span class="last-name">Ferrer</span>
                         </div>
@@ -698,7 +692,7 @@
                     <div class="section__title-wrapper section__title-wrapper-work-process">
                         <div class="section__subtitle tpl__item-center">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
                             </div>
                             <p class="section__subtitle-text">
                                 Our Working Process
@@ -715,7 +709,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-6.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-6.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">A</span>
@@ -730,7 +724,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-7.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-7.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">R</span>
@@ -745,7 +739,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-2.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-2.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">D</span>
@@ -760,7 +754,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-9.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-9.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">D</span>
@@ -775,7 +769,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-4.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-4.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">O</span>
@@ -790,7 +784,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="work-process-box img-hover-left-right-item">
                             <div class="process__thumb img-hover-left-right">
-                                <img src="assets/img/gallery/gallery-10.jpg" alt="image not found">
+                                <img src="/assets/img/gallery/gallery-10.jpg" alt="image not found">
                             </div>
                             <div class="process__title-font">
                                 <span class="stroke-text">S</span>
@@ -816,7 +810,7 @@
                     <div class="section__title-wrapper">
                         <div class="section__subtitle">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
                             </div>
                             <p class="section__subtitle-text">
                                 Awesome Clients Feeback
@@ -847,7 +841,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-2.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-2.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -878,7 +872,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-3.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-3.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -909,7 +903,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-4.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-4.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -940,7 +934,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-7.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-7.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -971,7 +965,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-6.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-6.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -1002,7 +996,7 @@
                                         <div class="row g-0">
                                             <div class="col-md-6">
                                                 <div class="author__thumb">
-                                                    <img src="assets/img/team/team-6.jpg" alt="image not found">
+                                                    <img src="/assets/img/team/team-6.jpg" alt="image not found">
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
@@ -1049,7 +1043,7 @@
                     <div class="section__title-wrapper">
                         <div class="section__subtitle tpl__item-center">
                             <div class="section__subtitle-icon">
-                                <img src="assets/img/shapes/section-title-star.png" alt="image not found">
+                                <img src="/assets/img/shapes/section-title-star.png" alt="image not found">
                             </div>
                             <p class="section__subtitle-text">
                                 Latest News
@@ -1083,7 +1077,7 @@
                                 </a>
                             </div>
                             <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="assets/img/blog/blog-1-img-1.jpg"></div>
+                                data-background="/assets/img/blog/blog-1-img-1.jpg"></div>
                         </div>
                         <div class="blog__item-1">
                             <div class="">
@@ -1105,7 +1099,7 @@
                                 </a>
                             </div>
                             <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="assets/img/blog/blog-1-img-2.jpg"></div>
+                                data-background="/assets/img/blog/blog-1-img-2.jpg"></div>
                         </div>
                         <div class="blog__item-1">
                             <div class="">
@@ -1127,7 +1121,7 @@
                                 </a>
                             </div>
                             <div class="blog-thumb-hover d-none d-md-block"
-                                data-background="assets/img/blog/blog-1-img-3.jpg"></div>
+                                data-background="/assets/img/blog/blog-1-img-3.jpg"></div>
                         </div>
 
                         <div class="blog-img-wrap">
