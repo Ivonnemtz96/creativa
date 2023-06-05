@@ -70,7 +70,7 @@
                                 <div class="row justify-content-center">
                                     <div class="col-md-12 text-center" style="margin-top:3rem;">
                                         <div class="button-item">
-                                            <a href="case-study-02.html" class="border-btn">
+                                            <a href="/contacto" class="border-btn">
                                                 <span class="btn-text text-white">¡Lo quiero!</span>
                                                 <span class="btn-icon">
                                                     <i class="flaticon-next"></i>
@@ -143,7 +143,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-md-12 text-center" style="margin-top:3rem;">
                                     <div class="button-item">
-                                        <a href="case-study-02.html" class="border-btn">
+                                        <a href="/contacto" class="border-btn">
                                             <span class="btn-text text-white">¡Lo quiero!</span>
                                             <span class="btn-icon">
                                                 <i class="flaticon-next"></i>
@@ -215,7 +215,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-md-12 text-center" style="margin-top:3rem; margin-bottom:2rem;">
                                     <div class="button-item">
-                                        <a href="case-study-02.html" class="border-btn">
+                                        <a href="/contacto" class="border-btn">
                                             <span class="btn-text text-white">¡Lo quiero!</span>
                                             <span class="btn-icon">
                                                 <i class="flaticon-next"></i>
